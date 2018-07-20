@@ -1,0 +1,15 @@
+.project
+.DS_Store
+archive
+node_modules/
+bower_components/
+.idea/
+.sass-cache/
+package-lock.json
+*.bak
+build/
+sbt/
+temp/
+dist/
+temp/
+*.iml
